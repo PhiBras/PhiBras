@@ -27,8 +27,8 @@ Sou focado em construir soluções eficientes, escaláveis e bem estruturadas. T
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhiBras&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhiBras&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" height="150" />
 </p>
 
 ---
